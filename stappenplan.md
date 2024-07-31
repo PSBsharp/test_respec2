@@ -1,6 +1,4 @@
-# Werkt dit proces
-
-Onderstaande flowchart beschrijft het proces. Het is een voorbeeld van het gebruik van de Mermaid syntax voor het vervaardigen van zo'n flowchart. 
+# Stappenplan
 
 <figure>
     
