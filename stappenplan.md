@@ -14,6 +14,16 @@ flowchart LR
 
 ```
 
+```mermaid
+%%{ init: { 'theme': 'base', 'themeVariables': { 'fontSize': '32px', 'fontFamily': 'Arial', 'primaryColor': '#ffcc00', 'lineWidth': 2, 'lineColor': '#333' }}}%%
+graph TD
+  A[Start] --> B{Vraag}
+  B -->|Ja| C[Actie 1]
+  B -->|Nee| D[Actie 2]
+  C --> E[Einde]
+  D --> E
+
+```
 
 
 <figure>
