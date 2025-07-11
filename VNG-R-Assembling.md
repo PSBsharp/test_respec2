@@ -15,9 +15,9 @@ Hieronder wordt de werkwijze beschreven waarbij de 8 in de volgende paragraaf be
 
 > Dat bestand moet nog gecreëerd worden in het template;
 
-6. Activeer GitHub Pages voor de nieuwe repository. Selecteer daarvoor het tabblad 'Settings' en kies daar 'Pages';
-7. Kies daar waar bij Branch 'None' staat voor 'main' en klik op 'Save';
-8. Nadat de build en deployment is uitgevoerd ga je naar het 'Code' tabblad, klikt daar op het tandwieltje bij 'About' en klikt op de checkbox naast 'Use your GitHub Pages website'. Klikken op de resulterende link onder 'About' brengt je naar de standaard gegenereerde Respec documentatie die nu kan worden aangepast door de eigenaar van de repository;
+5. TEST Activeer GitHub Pages voor de nieuwe repository. Selecteer daarvoor het tabblad 'Settings' en kies daar 'Pages';
+6. TESTTEST Kies daar waar bij Branch 'None' staat voor 'main' en klik op 'Save';
+7. Nadat de build en deployment is uitgevoerd ga je naar het 'Code' tabblad, TESTTESTTESTTESTTEST   klikkerdieklik daar op het tandwieltje bij 'About' en klikt op de checkbox naast 'Use your GitHub Pages website'. Klikken op de resulterende link onder 'About' brengt je naar de standaard gegenereerde Respec documentatie die nu kan worden aangepast door de eigenaar van de repository;
 
 ## Door repository eigenaar uit te voeren acties
 
